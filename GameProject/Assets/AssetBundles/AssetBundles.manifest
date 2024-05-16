@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2660071561
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tableassetbundle
+      Dependencies: {}
+    Info_1:
+      Name: 2ndassetbundle
+      Dependencies: {}
