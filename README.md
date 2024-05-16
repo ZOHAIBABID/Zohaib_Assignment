@@ -24,4 +24,5 @@ public class CreateAssetBundles
         BuildPipeline.BuildAssetBundles(outputPath, BuildAssetBundleOptions.None, BuildTarget.StandaloneWindows);
     }
 }
+
 ______________________________________________________
